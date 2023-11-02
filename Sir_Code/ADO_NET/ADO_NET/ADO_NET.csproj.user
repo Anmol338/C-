@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V1\ConnectDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V1\DisplayAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V1\InsertRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V1\Mainwindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V1\DeleteRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V1\SearchRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V1\UpdateRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V2\AllPersons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V2\DeletePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V2\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V2\SavePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V2\SearchPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V2\UpdatePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

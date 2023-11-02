@@ -1,0 +1,99 @@
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.exe
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.deps.json
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.runtimeconfig.json
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.dll
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.pdb
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Mainwindow.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.GenerateResource.cache
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.AssemblyInfoInputs.cache
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.AssemblyInfo.cs
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.CoreCompileInputs.cache
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.dll
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\refint\ADO_NET.dll
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.pdb
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.genruntimeconfig.cache
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ref\ADO_NET.dll
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.ConnectDB.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.AssemblyReference.cache
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.CopyComplete
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.InsertRecord.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.DisplayAll.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.SearchRecord.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.DeleteRecord.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.UpdateRecord.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.MainWindow.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.SavePerson.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.SearchPerson.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.UpdatePerson.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.DeletePerson.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.AllPersons.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Form1.resources
+C:\Users\Krishna Aryal\source\repos\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Form2.resources
+D:\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.exe
+D:\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.deps.json
+D:\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.runtimeconfig.json
+D:\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.dll
+D:\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.pdb
+D:\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.AssemblyReference.cache
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Form1.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Form2.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.ConnectDB.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.DeleteRecord.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.DisplayAll.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.InsertRecord.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Mainwindow.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.SearchRecord.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.UpdateRecord.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.AllPersons.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.DeletePerson.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.MainWindow.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.SavePerson.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.SearchPerson.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.UpdatePerson.resources
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.GenerateResource.cache
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.AssemblyInfoInputs.cache
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.AssemblyInfo.cs
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.CoreCompileInputs.cache
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.CopyComplete
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.dll
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\refint\ADO_NET.dll
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.pdb
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.genruntimeconfig.cache
+D:\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ref\ADO_NET.dll
+D:\C#\Sir_Code\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.exe
+D:\C#\Sir_Code\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.deps.json
+D:\C#\Sir_Code\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.runtimeconfig.json
+D:\C#\Sir_Code\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.dll
+D:\C#\Sir_Code\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\ADO_NET.pdb
+D:\C#\Sir_Code\ADO_NET\ADO_NET\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.AssemblyReference.cache
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Form1.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Form2.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.ConnectDB.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.DeleteRecord.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.DisplayAll.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.InsertRecord.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.Mainwindow.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.SearchRecord.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V1.UpdateRecord.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.AllPersons.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.DeletePerson.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.MainWindow.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.SavePerson.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.SearchPerson.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.V2.UpdatePerson.resources
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.GenerateResource.cache
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.AssemblyInfoInputs.cache
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.AssemblyInfo.cs
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.CoreCompileInputs.cache
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.csproj.CopyComplete
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.dll
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\refint\ADO_NET.dll
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.pdb
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ADO_NET.genruntimeconfig.cache
+D:\C#\Sir_Code\ADO_NET\ADO_NET\obj\Debug\net6.0-windows\ref\ADO_NET.dll

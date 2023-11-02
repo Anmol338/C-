@@ -1,0 +1,14 @@
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\bin\Debug\net6.0\CSharpCore.exe
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\bin\Debug\net6.0\CSharpCore.deps.json
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\bin\Debug\net6.0\CSharpCore.runtimeconfig.json
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\bin\Debug\net6.0\CSharpCore.dll
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\bin\Debug\net6.0\CSharpCore.pdb
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\CSharpCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\CSharpCore.AssemblyInfoInputs.cache
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\CSharpCore.AssemblyInfo.cs
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\CSharpCore.csproj.CoreCompileInputs.cache
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\CSharpCore.dll
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\refint\CSharpCore.dll
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\CSharpCore.pdb
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\CSharpCore.genruntimeconfig.cache
+D:\C#\Lab_2023_09_26\CSharpCore\CSharpCore\obj\Debug\net6.0\ref\CSharpCore.dll

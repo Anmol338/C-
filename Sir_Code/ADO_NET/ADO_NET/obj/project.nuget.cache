@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7hppa0BlMyRdB/pQSUqXGSIl9Umbe5vYp48a7pHgCZ8YqVMvnSi+2pW4ux8muVTtoz5zFTc7MEQr71Xih6kSQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Sir_Code\\ADO_NET\\ADO_NET\\ADO_NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}

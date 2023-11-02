@@ -1,0 +1,14 @@
+D:\C#\Self_Practice\Core_C#\Core_C#\bin\Debug\net6.0\Core_C#.exe
+D:\C#\Self_Practice\Core_C#\Core_C#\bin\Debug\net6.0\Core_C#.deps.json
+D:\C#\Self_Practice\Core_C#\Core_C#\bin\Debug\net6.0\Core_C#.runtimeconfig.json
+D:\C#\Self_Practice\Core_C#\Core_C#\bin\Debug\net6.0\Core_C#.dll
+D:\C#\Self_Practice\Core_C#\Core_C#\bin\Debug\net6.0\Core_C#.pdb
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\Core_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\Core_C#.AssemblyInfoInputs.cache
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\Core_C#.AssemblyInfo.cs
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\Core_C#.csproj.CoreCompileInputs.cache
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\Core_C#.dll
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\refint\Core_C#.dll
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\Core_C#.pdb
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\Core_C#.genruntimeconfig.cache
+D:\C#\Self_Practice\Core_C#\Core_C#\obj\Debug\net6.0\ref\Core_C#.dll

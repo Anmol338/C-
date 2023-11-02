@@ -1,0 +1,14 @@
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\bin\Debug\net6.0\Lab1_2023_09_15.exe
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\bin\Debug\net6.0\Lab1_2023_09_15.deps.json
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\bin\Debug\net6.0\Lab1_2023_09_15.runtimeconfig.json
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\bin\Debug\net6.0\Lab1_2023_09_15.dll
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\bin\Debug\net6.0\Lab1_2023_09_15.pdb
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\Lab1_2023_09_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\Lab1_2023_09_15.AssemblyInfoInputs.cache
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\Lab1_2023_09_15.AssemblyInfo.cs
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\Lab1_2023_09_15.csproj.CoreCompileInputs.cache
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\Lab1_2023_09_15.dll
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\refint\Lab1_2023_09_15.dll
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\Lab1_2023_09_15.pdb
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\Lab1_2023_09_15.genruntimeconfig.cache
+D:\C#\Lab1_2023_09_15\Lab1_2023_09_15\obj\Debug\net6.0\ref\Lab1_2023_09_15.dll

@@ -1,0 +1,17 @@
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\bin\Debug\net6.0-windows\Form_Application.exe
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\bin\Debug\net6.0-windows\Form_Application.deps.json
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\bin\Debug\net6.0-windows\Form_Application.runtimeconfig.json
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\bin\Debug\net6.0-windows\Form_Application.dll
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\bin\Debug\net6.0-windows\Form_Application.pdb
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.csproj.GenerateResource.cache
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.AssemblyInfoInputs.cache
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.AssemblyInfo.cs
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.csproj.CoreCompileInputs.cache
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.dll
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\refint\Form_Application.dll
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.pdb
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.genruntimeconfig.cache
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\ref\Form_Application.dll
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.Views.Form2.resources
+D:\C#\Self_Practice\Form_Application\Form_Application\Form_Application\obj\Debug\net6.0-windows\Form_Application.Views.Form1.resources
