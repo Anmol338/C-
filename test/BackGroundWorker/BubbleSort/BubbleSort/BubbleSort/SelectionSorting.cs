@@ -1,21 +1,22 @@
 ﻿namespace BubbleSort
 {
-    internal class Sorting
+    internal class SelectionSorting
     {
-        public Sorting() {
-            int[] A = { 18, 20, 16, 15, 8, 5, 2, 1};
+        public SelectionSorting() {
+            int[] A = { 10, 8, 6, 7, 1, 5 };
             //int[] A = { 1, 2, 3, 4, 5, 6};
             int n = A.Length;
 
             // Sorting Array using Bubble Sort
-            BubbleShort(A, n);
+            SelectionShort(A, n);
 
             // Printing Sorted Array
             Console.WriteLine("Final Result after sorting the elements: ");
             printArray(A, n);
         }
 
-        public void printArray(int[] A, int n) {
+        public void printArray(int[] A, int n)
+        {
             for (int i = 0; i < n; i++)
             {
                 Console.Write(A[i] + " ");
@@ -23,30 +24,21 @@
             Console.WriteLine("\n");
         }
 
-        public void BubbleShort(int[] A, int n)
+        public void SelectionShort(int[] A, int n)
         {
-            int isSorted = 0;
-
-            for(int i = 0; i < n - 1; i++)
+            for (int i = 0; i <= n - 1; i++)
             {
                 Console.WriteLine("Working on pass number " + (i + 1));
-                isSorted = 1;
-
-                for (int j=0; j<n - 1 -i; j++)
+                for (int j = i + 1; j <= n - 1; j++)
                 {
-                    if (A[j] > A[j + 1])
+                    if (A[i] > A[j])
                     {
                         int temp = A[j];
-                        A[j] = A[j + 1];
-                        A[j + 1] = temp;
-                        isSorted = 0;
+                        A[j] = A[i];
+                        A[i] = temp;
                     }
+                    printArray(A, n);
                 }
-                if (isSorted == 1)
-                    {
-                        return;
-                    }
-                printArray(A, n);
             }
         }
     }

@@ -1,3 +1,5 @@
 ﻿using BubbleSort;
 
-Sorting class1 = new Sorting(); 
+BubbleSorting class1 = new BubbleSorting();
+
+//SelectionSorting class2 = new SelectionSorting();
