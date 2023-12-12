@@ -1,0 +1,17 @@
+D:\C#\test\DateTimeTest\DateTimeTest\bin\Debug\net6.0\DateTimeTest.exe
+D:\C#\test\DateTimeTest\DateTimeTest\bin\Debug\net6.0\DateTimeTest.deps.json
+D:\C#\test\DateTimeTest\DateTimeTest\bin\Debug\net6.0\DateTimeTest.runtimeconfig.json
+D:\C#\test\DateTimeTest\DateTimeTest\bin\Debug\net6.0\DateTimeTest.dll
+D:\C#\test\DateTimeTest\DateTimeTest\bin\Debug\net6.0\DateTimeTest.pdb
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.AssemblyInfoInputs.cache
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.AssemblyInfo.cs
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.csproj.CoreCompileInputs.cache
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.dll
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\refint\DateTimeTest.dll
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.pdb
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.genruntimeconfig.cache
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\ref\DateTimeTest.dll
+D:\C#\test\DateTimeTest\DateTimeTest\bin\Debug\net6.0\MySqlConnector.dll
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.csproj.AssemblyReference.cache
+D:\C#\test\DateTimeTest\DateTimeTest\obj\Debug\net6.0\DateTimeTest.csproj.CopyComplete

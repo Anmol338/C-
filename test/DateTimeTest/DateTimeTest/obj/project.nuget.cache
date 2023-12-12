@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "udxJbGcv/66L5Ur4N3LM4S2Y3SO9nRQBJ+SyTZt79h6RPDQHrB1AeqpaXkWM44TUEoCPJ/8as2oaAuLfnkvEqQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\test\\DateTimeTest\\DateTimeTest\\DateTimeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}
